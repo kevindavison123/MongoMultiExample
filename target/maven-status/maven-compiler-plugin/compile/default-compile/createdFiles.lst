@@ -1,9 +1,0 @@
-controllers/OrganizationEndpoint.class
-services/users/User.class
-services/orgs/OrganizationRepository.class
-controllers/HealthCheckEndPoint.class
-services/Application.class
-services/orgs/Organization.class
-controllers/UserEndpoint.class
-services/users/UserRepository.class
-services/MongoConfig.class

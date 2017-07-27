@@ -1,9 +1,0 @@
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/MongoConfig.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/controllers/HealthCheckEndPoint.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/orgs/Organization.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/controllers/OrganizationEndpoint.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/Application.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/orgs/OrganizationRepository.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/users/User.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/controllers/UserEndpoint.java
-/home/kevin/work/projects/weremainProject/weremain-backend/src/main/java/services/users/UserRepository.java
