@@ -1,0 +1,13 @@
+
+spring.data.mongodb.host= <host name="">
+spring.data.mongodb.port= <port number="">
+spring.data.mongodb.uri= <db uri=""> (alternative)
+spring.data.mongodb.database= <database name="">
+
+primary.mongodb.host=<primary_mongodb_host>
+primary.mongodb.port=<primary_mongodb_port>
+primary.mongodb.database=<primary_mongodb_database>
+
+secondary.mongodb.host=<secondary_mongodb_host>
+secondary.mongodb.port=<secondary_mongodb_port>
+secondary.mongodb.database=<secondary_mongodb_database>
